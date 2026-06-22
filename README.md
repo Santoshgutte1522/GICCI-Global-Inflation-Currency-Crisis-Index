@@ -3,6 +3,37 @@
 An end-to-end Data Science project that analyzes global inflation and currency crises across 50 countries over a 55-year period (1970–2025). The project integrates MySQL, Python, Machine Learning, and Power BI to uncover economic patterns, predict crises, and evaluate recovery trends.
 
 ---
+## Data Sources
+
+This project uses publicly available macroeconomic and financial datasets collected from trusted international institutions.
+
+### Sources
+
+- World Bank Open Data
+  - Inflation (%)
+  - GDP Growth (%)
+  - Unemployment (%)
+
+- International Monetary Fund (IMF)
+  - Consumer Price Index (CPI)
+  - Inflation Indicators
+
+- OECD Database
+  - Economic Indicators
+
+- FRED (Federal Reserve Economic Data)
+  - Exchange Rates
+  - Interest Rates
+
+### Data Coverage
+
+- Countries: 50
+- Period: 1970–2025
+- Records: 12,450
+
+
+
+---
 
 ## Project Overview
 
